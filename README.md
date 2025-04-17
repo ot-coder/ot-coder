@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ot-coder
 - 👀 I’m interested in software development, data science and video games
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on every project relating to Javascript as well as Python and Java
 - 📫 How to reach me is easy with my Github or my personal email ogboanthony315@gmail.com
 
